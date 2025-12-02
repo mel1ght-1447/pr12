@@ -1,0 +1,16 @@
+C:\Users\mek\source\repos\pr12\bin\Debug\pr12.exe.config
+C:\Users\mek\source\repos\pr12\bin\Debug\pr12.exe
+C:\Users\mek\source\repos\pr12\bin\Debug\pr12.pdb
+C:\Users\mek\source\repos\pr12\obj\Debug\pr12.csproj.AssemblyReference.cache
+C:\Users\mek\source\repos\pr12\obj\Debug\pr12.csproj.CoreCompileInputs.cache
+C:\Users\mek\source\repos\pr12\obj\Debug\pr12.exe
+C:\Users\mek\source\repos\pr12\obj\Debug\pr12.pdb
+C:\Users\mek\source\repos\pr12\obj\Debug\pr12.exe.config
+D:\Users\1213-7\Documents\2-ИСП\ОАиП\Быков\pr12\pr12\bin\Debug\pr12.exe.config
+D:\Users\1213-7\Documents\2-ИСП\ОАиП\Быков\pr12\pr12\bin\Debug\pr12.exe
+D:\Users\1213-7\Documents\2-ИСП\ОАиП\Быков\pr12\pr12\bin\Debug\pr12.pdb
+D:\Users\1213-7\Documents\2-ИСП\ОАиП\Быков\pr12\pr12\obj\Debug\pr12.csproj.AssemblyReference.cache
+D:\Users\1213-7\Documents\2-ИСП\ОАиП\Быков\pr12\pr12\obj\Debug\pr12.exe.config
+D:\Users\1213-7\Documents\2-ИСП\ОАиП\Быков\pr12\pr12\obj\Debug\pr12.csproj.CoreCompileInputs.cache
+D:\Users\1213-7\Documents\2-ИСП\ОАиП\Быков\pr12\pr12\obj\Debug\pr12.exe
+D:\Users\1213-7\Documents\2-ИСП\ОАиП\Быков\pr12\pr12\obj\Debug\pr12.pdb
